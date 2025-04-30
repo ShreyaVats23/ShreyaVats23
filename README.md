@@ -1,11 +1,5 @@
 ## Hi, I’m Shreya Vats ✨
 
-
-I love blending creativity with code. <br/>
-Over the past couple of years, I’ve explored graphic design, web development, and content writing—each experience sharpening my skills and sparking new interests. <br/>
-I've presented research on AI/ML, participated in hackathons and ideathons, and worked on projects that focus on sustainability and real-world impact.<br/>
-I enjoy collaborating with teams, building user-friendly digital experiences, and diving into emerging tech especially AI and machine learning. <br/>
-
 # 💫 About Me:
 I love blending creativity with code. <br/><br>Over the past couple of years, I’ve explored graphic design, web development, and content writing—each experience sharpening my skills and sparking new interests. <br/><br>I've presented research on AI/ML, participated in hackathons and ideathons, and worked on projects that focus on sustainability and real-world impact.<br/><br>I enjoy collaborating with teams, building user-friendly digital experiences, and diving into emerging tech especially AI and machine learning. <br/><br>
 
